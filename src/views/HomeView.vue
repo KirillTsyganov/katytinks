@@ -1,6 +1,8 @@
 <template>
   <div class="home">
-    <h1>Home Page</h1>
+    <pre>
+      ¯\_(ツ)_/¯
+    </pre>
   </div>
 </template>
 
@@ -11,3 +13,13 @@ export default defineComponent({
   name: 'HomeView',
 })
 </script>
+
+<style scoped>
+
+
+pre {
+  font-size: 30px;
+  font-family: 'Courier New', monospace;
+  line-height: 1; /* Keep lines tight */
+}
+</style>

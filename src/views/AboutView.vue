@@ -1,7 +1,6 @@
 <template>
   <div class="about">
-    <h1>About Page</h1>
-    <h2>Kirill Tsyganov</h2>
+    <h1>Kirill Tsyganov</h1>
   </div>
 </template>
 
